@@ -1,0 +1,19 @@
+{
+  "name": "covidtrackingappbackend",
+  "version": "1.0.0",
+  "description": "it is a fake rest api service to simulate backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshss763/covidTrackingAppBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dineshss763/covidTrackingAppBackend/issues"
+  },
+  "homepage": "https://github.com/dineshss763/covidTrackingAppBackend#readme"
+}
